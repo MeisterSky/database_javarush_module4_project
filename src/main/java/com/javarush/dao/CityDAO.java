@@ -27,6 +27,4 @@ public class CityDAO {
         query.setParameter("ID", id);
         return query.getSingleResult();
     }
-
-
 }

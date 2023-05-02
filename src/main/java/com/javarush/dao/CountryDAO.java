@@ -17,5 +17,3 @@ public class CountryDAO {
         return query.list();
     }
 }
-
-
